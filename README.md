@@ -152,3 +152,14 @@ All JSON routes are under `/api/v1` unless noted.
 
 BSI responses include Gen AI fields when the generative step completes. Responses use a success envelope with a `result` payload (`APISuccessResponse` style).
 
+---
+
+## Exclusions (not present in this mini version)
+
+- ML Engine for Transaction Categorization
+- Complex Kafka framework and Snowflake data store
+- Pinecone implementation
+- PII Masking framework for OpenAI invocations
+- Omnichannel - Calls and others
+
+The full version is present at `banklens.crawfieldanddutton.com` !
