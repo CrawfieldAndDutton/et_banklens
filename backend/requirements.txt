@@ -1,0 +1,10 @@
+fastapi>=0.110,<1
+uvicorn[standard]>=0.27,<1
+pydantic-settings>=2.2,<3
+sqlalchemy>=2.0,<3
+python-jose[cryptography]>=3.3,<4
+bcrypt>=4.1,<5
+email-validator>=2.1,<3
+slowapi>=0.1.9,<1
+httpx>=0.27,<1
+openai>=1.40,<2
