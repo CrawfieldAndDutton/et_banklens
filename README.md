@@ -152,14 +152,3 @@ All JSON routes are under `/api/v1` unless noted.
 
 BSI responses include Gen AI fields when the generative step completes. Responses use a success envelope with a `result` payload (`APISuccessResponse` style).
 
----
-
-## Hackathon narrative
-
-**BankLens** shows **governed AI in lending**: deterministic rules first, **mandatory Gen AI narration** for human-readable run summaries, explainable signals, PII-minimised APIs, explicit consent, rate limits, and an audit trail suitable for compliance review. **Gen AI is part of the intended product experience**, not an optional add-on.
-
----
-
-## License and attribution
-
-Specify your team’s license and attribution here for the ET AI Hackathon submission (e.g. MIT, Apache-2.0, or “all rights reserved”).
